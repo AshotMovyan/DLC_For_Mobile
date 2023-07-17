@@ -1,0 +1,15 @@
+{
+  "Userlnfo": [
+    {
+      "parts": [
+        "StaticMesh'/Game/test/SM_back_door.SM_back_door'",
+        "StaticMesh'/Game/test/SM_Default_TailLight_Pickap.SM_Default_TailLight_Pickap'",
+        "StaticMesh'/Game/test/SM_front_bumper.SM_front_bumper'",
+        "StaticMesh'/Game/test/SM_front_door.SM_front_door'",
+        "StaticMesh'/Game/test/SM_hood.SM_hood'",
+        "StaticMesh'/Game/test/SM_rear_bumper.SM_rear_bumper'"
+      ],
+      "skeletalMesh": "SkeletalMesh'/Game/test/SK_PTN_4X4_GB_14_001.SK_PTN_4X4_GB_14_001'"
+    }
+  ]
+}

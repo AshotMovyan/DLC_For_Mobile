@@ -1,0 +1,184 @@
+[
+	{
+		"Name": "NewRow",
+		"Mesh": "None",
+		"ZoomIntensity": 0,
+		"ZoomTarget Arm Len Interp Speed": 0,
+		"ViewCameraTopDownClamp":
+		{
+			"Min": 0,
+			"Max": 0
+		},
+		"ViewCameraLeftRightClamp":
+		{
+			"Min": 0,
+			"Max": 0
+		},
+		"CameraTargetArmLenghtClamp":
+		{
+			"Min": 0,
+			"Max": 0
+		},
+		"MouseSensitivityXY":
+		{
+			"X": 0,
+			"Y": 0
+		}
+	},
+	{
+		"Name": "NewRow_0",
+		"Mesh": "None",
+		"ZoomIntensity": 0,
+		"ZoomTarget Arm Len Interp Speed": 0,
+		"ViewCameraTopDownClamp":
+		{
+			"Min": 0,
+			"Max": 0
+		},
+		"ViewCameraLeftRightClamp":
+		{
+			"Min": 0,
+			"Max": 0
+		},
+		"CameraTargetArmLenghtClamp":
+		{
+			"Min": 0,
+			"Max": 0
+		},
+		"MouseSensitivityXY":
+		{
+			"X": 0,
+			"Y": 0
+		}
+	},
+	{
+		"Name": "NewRow_1",
+		"Mesh": "None",
+		"ZoomIntensity": 0,
+		"ZoomTarget Arm Len Interp Speed": 0,
+		"ViewCameraTopDownClamp":
+		{
+			"Min": 0,
+			"Max": 0
+		},
+		"ViewCameraLeftRightClamp":
+		{
+			"Min": 0,
+			"Max": 0
+		},
+		"CameraTargetArmLenghtClamp":
+		{
+			"Min": 0,
+			"Max": 0
+		},
+		"MouseSensitivityXY":
+		{
+			"X": 0,
+			"Y": 0
+		}
+	},
+	{
+		"Name": "NewRow_2",
+		"Mesh": "None",
+		"ZoomIntensity": 0,
+		"ZoomTarget Arm Len Interp Speed": 0,
+		"ViewCameraTopDownClamp":
+		{
+			"Min": 0,
+			"Max": 0
+		},
+		"ViewCameraLeftRightClamp":
+		{
+			"Min": 0,
+			"Max": 0
+		},
+		"CameraTargetArmLenghtClamp":
+		{
+			"Min": 0,
+			"Max": 0
+		},
+		"MouseSensitivityXY":
+		{
+			"X": 0,
+			"Y": 0
+		}
+	},
+	{
+		"Name": "NewRow_3",
+		"Mesh": "None",
+		"ZoomIntensity": 0,
+		"ZoomTarget Arm Len Interp Speed": 0,
+		"ViewCameraTopDownClamp":
+		{
+			"Min": 0,
+			"Max": 0
+		},
+		"ViewCameraLeftRightClamp":
+		{
+			"Min": 0,
+			"Max": 0
+		},
+		"CameraTargetArmLenghtClamp":
+		{
+			"Min": 0,
+			"Max": 0
+		},
+		"MouseSensitivityXY":
+		{
+			"X": 0,
+			"Y": 0
+		}
+	},
+	{
+		"Name": "NewRow_4",
+		"Mesh": "None",
+		"ZoomIntensity": 0,
+		"ZoomTarget Arm Len Interp Speed": 0,
+		"ViewCameraTopDownClamp":
+		{
+			"Min": 0,
+			"Max": 0
+		},
+		"ViewCameraLeftRightClamp":
+		{
+			"Min": 0,
+			"Max": 0
+		},
+		"CameraTargetArmLenghtClamp":
+		{
+			"Min": 0,
+			"Max": 0
+		},
+		"MouseSensitivityXY":
+		{
+			"X": 0,
+			"Y": 0
+		}
+	},
+	{
+		"Name": "NewRow_5",
+		"Mesh": "None",
+		"ZoomIntensity": 0,
+		"ZoomTarget Arm Len Interp Speed": 0,
+		"ViewCameraTopDownClamp":
+		{
+			"Min": 0,
+			"Max": 0
+		},
+		"ViewCameraLeftRightClamp":
+		{
+			"Min": 0,
+			"Max": 0
+		},
+		"CameraTargetArmLenghtClamp":
+		{
+			"Min": 0,
+			"Max": 0
+		},
+		"MouseSensitivityXY":
+		{
+			"X": 0,
+			"Y": 0
+		}
+	}
+]
